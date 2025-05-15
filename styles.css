@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    background-color: rgb(30, 31, 36);
+}
+.hero {
+    background-image: url(images/luca-bravo-8x_fFNrmeDk-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 293px 0;
+    text-align: center;
+}
+.menu-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
